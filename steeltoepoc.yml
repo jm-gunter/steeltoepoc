@@ -1,2 +1,3 @@
-Value1: my-first-value
-Value2: my-next-value
+Profile1:
+  Value1: my-first-value
+  Value2: my-next-value
