@@ -1,3 +1,8 @@
-Profile1:
+RetailPayment:
   Value1: my-first-value
-  Value2: my-next-value
+  Value2: my-next-value]
+  Cashback: 50
+
+1171:
+  Value1: my-1171-value
+  Cashback: 100
